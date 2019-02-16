@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="ru.otr.task2.Task2"
